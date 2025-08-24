@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently a student <br>🐍 Learning Python to automate tasks, build apps, and create impactful solutions.<br>👾 Exploring backend development  <br>🤝 Always eager to collaborate on innovative projects – let’s make something exciting together!<br>💡 Feel free to ask me anything tech-related – I’m all about sharing ideas, solving problems, and learning from others.<br>⚡ Fun Fact: Debugging is like being a detective in a mystery movie – but with more snacks and coffee involved!
+<br>🤝 Always eager to collaborate on innovative projects – let’s make something exciting together!<br>💡 Feel free to ask me anything tech-related – I’m all about sharing ideas, solving problems, and learning from others.<br>⚡ Fun Fact: Debugging is like being a detective in a mystery movie – but with more snacks and coffee involved!
 
 
 ## 🌐 Socials:
