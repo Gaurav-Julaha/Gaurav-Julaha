@@ -1,5 +1,11 @@
 # 💫 About Me:
-<br>🤝 Always eager to collaborate on innovative projects – let’s make something exciting together!<br>💡 Feel free to ask me anything tech-related – I’m all about sharing ideas, solving problems, and learning from others.<br>⚡ Fun Fact: Debugging is like being a detective in a mystery movie – but with more snacks and coffee involved!
+<br>🤝 I’m currently learning Linux and spending most of my time experimenting, breaking things, and fixing them again.
+I like understanding how systems actually work, not just following tutorials.
+
+I’m open to collaborating on small projects, practice labs, or anything where I can learn by doing.
+If you’re working on Linux, scripting, or beginner cybersecurity stuff, I’m always up for a discussion.
+
+⚡ Fun fact: Most of my learning happens after something breaks — that’s usually when things finally start making sense.
 
 
 ## 🌐 Socials:
